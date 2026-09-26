@@ -1,2 +1,2 @@
 Flask
-pyrhon-telegram-bot
+python-telegram-bot
